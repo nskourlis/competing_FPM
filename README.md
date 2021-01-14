@@ -1,2 +1,2 @@
 # competing_FPM
-Simulated scenarios- competing risks analysis using Flexible parametric survival models of increasing complexityfzdhzfdh
+Simulation of paper "On the choice of timescale for other cause mortality in a competing risk setting using flexible parametric survival models""
